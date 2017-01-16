@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/netty-3.3.0.Patched-1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-jdk14-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/guava-11.0.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/PeeRdio/lib/guava-11.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.0.4-20111207.115108-15.jar"/>
+	<classpathentry kind="lib" path="lib/TomP2P-4.1.2-preview.jar" sourcepath="lib/TomP2P-4.1.2-preview-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/PeeRdio/lib/TomP2P-4.1.2-preview-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jdbm-3.0-20120421.203941-1.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/jl1.0.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/basicplayer/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/nanoxml-lite-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
